@@ -32,7 +32,7 @@ keep_alive()
 # 2. BOT YAPILANDIRMASI VE SABİTLER
 # ==========================================
 # Token'ını buraya tırnak içinde yazabilirsin
-TOKEN = '8945132306:AAGp5QgZoICOpTSK9ixZebZ...' 
+TOKEN = '8945132306:AAFqXSCdB0L1obwl5FFJA_gvEX6hBnG6Yoo' 
 ADMIN_ID = 697237088
 PANEL_PASSWORD = "12149441286Aa."
 ADMIN_SESSION_TIMEOUT = 10800  # 3 Saat (saniye cinsinden)
